@@ -1,0 +1,6 @@
+D:\ReverseEngineering\CsharpPacker\Debug\Stub_Net.exe.config
+D:\ReverseEngineering\CsharpPacker\Debug\Stub_Net.exe
+D:\ReverseEngineering\CsharpPacker\Debug\Stub_Net.pdb
+D:\ReverseEngineering\CsharpPacker\Stub_Net\obj\Debug\Stub_Net.csproj.CoreCompileInputs.cache
+D:\ReverseEngineering\CsharpPacker\Stub_Net\obj\Debug\Stub_Net.exe
+D:\ReverseEngineering\CsharpPacker\Stub_Net\obj\Debug\Stub_Net.pdb

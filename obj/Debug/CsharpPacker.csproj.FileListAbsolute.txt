@@ -1,0 +1,9 @@
+D:\ReverseEngineering\CsharpPacker\Debug\CsharpPacker.exe.config
+D:\ReverseEngineering\CsharpPacker\Debug\CsharpPacker.exe
+D:\ReverseEngineering\CsharpPacker\Debug\CsharpPacker.pdb
+D:\ReverseEngineering\CsharpPacker\Debug\dnlib.dll
+D:\ReverseEngineering\CsharpPacker\Debug\dnlib.xml
+D:\ReverseEngineering\CsharpPacker\obj\Debug\CsharpPacker.csproj.CoreCompileInputs.cache
+D:\ReverseEngineering\CsharpPacker\obj\Debug\CsharpPacker.csproj.CopyComplete
+D:\ReverseEngineering\CsharpPacker\obj\Debug\CsharpPacker.exe
+D:\ReverseEngineering\CsharpPacker\obj\Debug\CsharpPacker.pdb

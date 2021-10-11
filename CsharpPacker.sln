@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsharpPacker", "CsharpPacker.csproj", "{186CDFA7-A9EB-4A3F-A83A-5AF260AD1206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stub_Net", "Stub_Net\Stub_Net.csproj", "{F91C6087-D851-4FFD-AF8E-B7F6DC1D8ADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{186CDFA7-A9EB-4A3F-A83A-5AF260AD1206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{186CDFA7-A9EB-4A3F-A83A-5AF260AD1206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{186CDFA7-A9EB-4A3F-A83A-5AF260AD1206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{186CDFA7-A9EB-4A3F-A83A-5AF260AD1206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F91C6087-D851-4FFD-AF8E-B7F6DC1D8ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F91C6087-D851-4FFD-AF8E-B7F6DC1D8ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F91C6087-D851-4FFD-AF8E-B7F6DC1D8ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F91C6087-D851-4FFD-AF8E-B7F6DC1D8ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC76128-993E-458A-B0ED-70DEA06E378C}
+	EndGlobalSection
+EndGlobal
